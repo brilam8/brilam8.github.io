@@ -1,2 +1,2 @@
-# brilam8.github.io
+# My Personal Website
 My personal website
