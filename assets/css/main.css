@@ -76,7 +76,13 @@ samp {
 
 a {
     background-color: transparent;
-    -webkit-text-decoration-skip: objects
+    -webkit-text-decoration-skip: objects;
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white
 }
 
 abbr[title] {
@@ -123,7 +129,7 @@ audio:not([controls]) {
 }
 
 img {
-    border-style: none
+    border-style: none;
 }
 
 svg:not(:root) {
@@ -4772,7 +4778,7 @@ h2 {
 }
 
 h3 {
-    line-height: 1.25;
+    line-height: 0;
     color: #333;
     font-size: 1.5rem
 }
@@ -4794,7 +4800,7 @@ ul {
 }
 
 a img {
-    border: none
+    border: none;
 }
 
 sub,
@@ -5081,8 +5087,6 @@ body {
 
 .project {
     margin: 20px;
-    padding-left: 15px;
-    padding-right: 15px;
     padding: 15px;
     background-color: gray;
     width: 20%;
@@ -5100,4 +5104,18 @@ body {
 .project-details h1,
 body {
     font-weight: 400;
+}
+
+.click {
+    display: block;
+    width: 100%;
+}
+
+.image {
+    width: 75%;
+    line-height: 0
+}
+
+.project p {
+    margin: 0.25em;
 }
