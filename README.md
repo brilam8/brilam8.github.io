@@ -1,5 +1,5 @@
 # My Personal Website
-
+Welcome to my personal website! Here you can get an overview of what I have been working on and the different platforms that you can reach out to me on to connect. :trollface:
 # Quick Setup
 
 1. Install Jekyll: `gem install jekyll bundler`
