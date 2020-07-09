@@ -1,14 +1,14 @@
 # Site settings
-title: Mauricio Urraco
-description: Resume Website
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Brian Lam
+description: My Personal Website
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://brianlam.com
 
 # User settings
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+username: Brian Lam
+user_description: Hey! I am a Computer Science major at University of California - San Diego, and an aspiring software engineer. I'm always on the lookout for new challenges and projects to tackle. Lately, I have been focusing on back-end development on numerous side projects, integrating restful API's and databases with the front-end.
+user_title: Software Engineer
+email: brilam8@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
