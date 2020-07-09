@@ -5124,10 +5124,12 @@ body {
 /* Flip Card Components */
 
 .flip-card {
+    display: flex;
     margin: 20px;
     padding: 15px;
     background-color: gray;
     width: 20%;
+    height: 450px;
     text-align: center;
     border-radius: 25px;
     color: white;
@@ -5166,6 +5168,7 @@ body {
 .flip-card-back {
     color: white;
     transform: rotateY(180deg);
+    overflow: auto;
 }
 
 .flip-card-back h3 {
