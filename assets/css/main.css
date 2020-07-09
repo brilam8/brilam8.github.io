@@ -5175,3 +5175,25 @@ body {
     font-weight: 400;
     color: white;
 }
+
+.flip-card-back .icon {
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    line-height: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    transition: all .5s;
+    margin: 5px;
+    border: 2px solid #fff;
+}
+
+.flip-card-back .icon:active {
+    color: #1a222c;
+    background: #fff
+}
+
+.flip-card-back .icon:hover {
+    color: #1a222c;
+    background: #fff
+}
