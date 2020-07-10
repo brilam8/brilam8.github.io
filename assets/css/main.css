@@ -4763,8 +4763,6 @@ h1,
 h2,
 h4,
 stong {
-    margin-top: 1em;
-    padding-top: 1em;
     line-height: 1.25;
     color: #333
 }
@@ -5196,4 +5194,11 @@ body {
 .flip-card-back .icon:hover {
     color: #1a222c;
     background: #fff
+}
+
+.personal-picture {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    border: 2px solid black
 }
