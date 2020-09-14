@@ -28,6 +28,11 @@ legend {
     padding: 0
 }
 
+:root {
+    background-color: #181a1b;
+    color: #e8e6e3;
+}
+
 html {
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
