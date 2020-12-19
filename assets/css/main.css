@@ -5253,11 +5253,11 @@ body {
 
 .portfolio_area .single_gallery {
     overflow: hidden;
-    width: 34%;
+    width: 33%;
     position: relative;
     z-index: 6;
     float: left;
-    border: solid 4px;
+    border: solid 0.5%;
     border-color: #1a222c;
 }
 
@@ -5324,7 +5324,7 @@ body {
 /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
 
 .portfolio_area .single_gallery.small_width {
-    width: 32%;
+    width: 31%;
 }
 
 @media (max-width: 767px) {
